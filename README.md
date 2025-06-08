@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/aqqZaQU.jpg" alt="Nishant Neupane" width="250" style="border-radius: 50%; border: 4px solid #e8932e; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="https://i.imgur.com/aqqZaQU.jpg" alt="Nishant Neupane" width="750" style="border-radius: 50%; border: 4px solid #e8932e; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
   
   <h1>Nishant Neupane</h1>
   <h3>Full Stack JavaScript Developer | MERN Expert | Cloud Solutions Architect</h3>
