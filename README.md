@@ -74,10 +74,10 @@ A full-featured messaging platform with:
 
 ---
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable Node.js Applications](https://example.com)
-- [React Performance Optimization Techniques](https://example.com)
+<!--## 📝 Latest Blog Posts  -->
+<!-- BLOG-POST-LIST:START  -->
+<!--- [Building Scalable Node.js Applications](https://example.com)
+- [React Performance Optimization Techniques](https://example.com) -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
