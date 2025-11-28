@@ -1,100 +1,71 @@
 <div align="center">
-  <img src="https://i.imgur.com/aqqZaQU.jpg" alt="Nishant Neupane" width="750" style="border-radius: 50%; border: 4px solid #e8932e; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+  <img src="https://i.imgur.com/aqqZaQU.jpg" alt="Nishant Neupane" width="200" style="border-radius: 50%;"/>
 
-  <h1>Nishant Neupane</h1>
-  <h3>Full Stack JavaScript Developer | MERN Expert | Cloud Solutions Architect</h3>
+  # Nishant Neupane
+
+  **Full Stack Developer** · **MERN Stack** · **Cloud Solutions**
 
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E8932E&center=true&width=500&lines=6+months+professional+experience;Full-stack+web+developer;Open-source+contributor;Cloud+deployment+specialist" alt="Typing animation" />
-  </p>
-
-  <p align="center">
     <a href="https://www.linkedin.com/in/nishant-neupane-126193238/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://github.com/nishant-neupane" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     <a href="mailto:nishantneupane488@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://twitter.com/NishantNeu488" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
   </p>
 </div>
 
 ---
 
-## 🔥 Technical Expertise
+### About Me
 
-### 🛠️ Core Technologies
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-<!--![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)-->
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-<!--
-**DevOps & Tools:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
--->
----
-
-## 🚀 Featured Projects
-
-### 1. Real-time Chat Application
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-A full-featured messaging platform with:
-- Real-time communication
-- User authentication
-- Message history
-- Responsive design
-
-[![View Project](https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/nishant-neupane/chat-system)
+Full Stack JavaScript Developer with **1+ year of professional experience** building scalable web applications. I specialize in the MERN stack and have a passion for creating clean, efficient, and user-friendly solutions. Currently focused on cloud architecture and performance optimization.
 
 ---
 
-## 📊 GitHub Analytics
+### Tech Stack
+
+```
+Frontend       React · JavaScript · TypeScript · Tailwind CSS · Redux
+Backend        Node.js · Express.js · REST APIs · GraphQL
+Database       MongoDB · PostgreSQL · Redis
+DevOps         Docker · AWS · GitHub Actions · Nginx
+Tools          Git · Postman · VS Code · Figma
+```
+
+---
+
+### Currently Building
+
+**Multi-Outlet Restaurant Management System** — A comprehensive platform for managing multiple restaurant branches from a single dashboard. Features include inventory tracking, order management, staff scheduling, real-time analytics, and centralized menu control across outlets.
+
+`React` `Node.js` `MongoDB` `Socket.IO` `Redux`
+
+---
+
+### Previous Project
+
+**Real-time Chat Application** — Full-featured messaging platform with real-time communication, JWT authentication, message persistence, and responsive design.
+
+[![View on GitHub](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nishant-neupane/chat-system)
+
+---
+
+### GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nishant-neupane&show_icons=true&theme=radical&hide_border=true&title_color=e8932e&bg_color=1d0e11&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-neupane&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=e8932e&fire=e8932e" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-neupane&layout=compact&theme=radical&hide_border=true&title_color=e8932e&bg_color=1d0e11" alt="Top Languages"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nishant-neupane&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=nishant-neupane&theme=default&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
 
-<!--## 📝 Latest Blog Posts  -->
-<!-- BLOG-POST-LIST:START  -->
-<!--- [Building Scalable Node.js Applications](https://example.com)
-- [React Performance Optimization Techniques](https://example.com) -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🏆 GitHub Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=nishant-neupane&theme=radical&margin-w=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🤝 Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/nishant-neupane-126193238/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/NishantNeu488" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:nishantneupane488@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<div align="center">
+  <sub>Open to collaboration and new opportunities</sub>
+</div>
